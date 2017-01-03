@@ -1,0 +1,25 @@
+{
+  "name": "es6-array-includes-shim",
+  "version": "1.0.0",
+  "description": "A simple shim for the includes method in ES6.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krsween/es6-array-includes-shim.git"
+  },
+  "keywords": [
+    "ES6",
+    "Inlcudes",
+    "shim",
+    "array"
+  ],
+  "author": "Kameron Sween <kameron@krsween.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krsween/es6-array-includes-shim/issues"
+  },
+  "homepage": "https://github.com/krsween/es6-array-includes-shim#readme"
+}
