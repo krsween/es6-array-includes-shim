@@ -1,6 +1,6 @@
 {
   "name": "es6-array-includes-shim",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "A simple shim for the includes method in ES6.",
   "main": "index.js",
   "scripts": {
